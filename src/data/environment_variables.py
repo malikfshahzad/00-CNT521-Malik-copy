@@ -10,3 +10,5 @@ print(API_KEY)
 
 password = os.getenv("pass")
 print(password)
+
+# create a function which accept 2 numbers and display the result
